@@ -1,2 +1,38 @@
-# Cafe-Management-System
-:  🎥 Cafe Management System - Order Summary and Payment Integration 🍽️  Welcome to my latest project! In this video, I'm showcasing a complete Cafe Management System.
+# Cafe Management System
+
+## Overview
+
+The Cafe Management System is a web-based application designed to streamline the operations of a cafe. It allows users to view the cafe's menu, place orders, and view details about dishes including prices and photos. The system is equipped with features to manage orders, track inventory, and provide a user-friendly experience for both customers and staff.
+
+## Features
+
+- **Menu Display**: View the cafe's menu with detailed information about each dish, including price and photos.
+- **Order Management**: Place orders and view order history.
+- **Inventory Tracking**: Manage and track inventory items.
+- **Responsive Design**: Optimized for use on desktops, tablets, and smartphones.
+- **Interactive UI**: Engaging user interface with smooth animations and transitions.
+
+## Technologies Used
+
+- **Frontend Technologies**:
+  - **HTML5**: For structuring the content and layout.
+  - **CSS3**: For styling and animations to enhance the visual appeal.
+  - **JavaScript**: For handling interactivity and user actions.
+
+- **Backend Technologies**:
+  - **Python**: For server-side logic and handling database operations.
+  - **Flask**: A lightweight web framework for building the application.
+  - **SQLite**: For the database to store menu items, orders, and inventory information.
+
+
+## Getting Started
+
+To set up and run the Cafe Management System locally, follow these steps:
+
+### 1. Clone the Repository
+
+Clone the repository to your local machine using Git:
+
+```bash
+git clone https://github.com/yourusername/cafe-management-system.git
+cd cafe-management-system
